@@ -1,4 +1,4 @@
-# Cpp
+# Blif2Graph
 
 ### Running the Program
 
