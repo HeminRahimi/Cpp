@@ -23,7 +23,7 @@
      ./netlist_parser
      ```
    - The program will prompt you to **enter the name of the netlist file** (without `.blif`).
-   - Example: If your file is `example.blif`, just enter `example` when prompted. (a sample file named "alu4" has been included).
+   - Example: If your file is `example.blif`, just enter `example` when prompted. (a sample file named `alu4` has been included).
 
 5. **Output**:
    - The program will create a graph from the given `.blif` file and output the number of modules, including I/O components.
