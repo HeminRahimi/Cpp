@@ -26,4 +26,4 @@
    - Example: If your file is `example.blif`, just enter `example` when prompted. (a sample file named `alu4` has been included).
 
 5. **Output**:
-   - The program will create a graph from the given `.blif` file and output the number of modules, including I/O components.
+   - The program will create a graph from the given `.blif` file and output the number of modules, including/excluding I/O components.
