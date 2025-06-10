@@ -27,7 +27,6 @@ typedef vector <pair<pair<int, short>, pair<vector<string>, vector<string>>>*> M
 	public:
 		///
 		//friend class Blif_Writer;
-		//friend int main(void);
 
 		Matrix_2D undirectrd_Graph;
 		int CLB_num;
